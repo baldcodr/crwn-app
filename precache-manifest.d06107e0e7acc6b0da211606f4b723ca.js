@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afa00d37f49782bdec22e9593686beb7",
+    "revision": "4e97fefc30df99c32eb821e86a51a424",
     "url": "/crwn-app/index.html"
   },
   {
-    "revision": "d0d570c839b0b7a33aa5",
-    "url": "/crwn-app/static/css/main.f3ca3beb.chunk.css"
+    "revision": "156e69531da3615b85ea",
+    "url": "/crwn-app/static/css/main.43a15517.chunk.css"
   },
   {
     "revision": "fcb840caa36af5c5b67c",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crwn-app/static/js/2.f2930e21.chunk.js.LICENSE"
   },
   {
-    "revision": "d0d570c839b0b7a33aa5",
+    "revision": "156e69531da3615b85ea",
     "url": "/crwn-app/static/js/main.e5dbcc0e.chunk.js"
   },
   {
