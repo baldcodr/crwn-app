@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/crwn-app/static/css/main.1321e4b0.chunk.css",
-    "main.js": "/crwn-app/static/js/main.b9eb05be.chunk.js",
-    "main.js.map": "/crwn-app/static/js/main.b9eb05be.chunk.js.map",
+    "main.css": "/crwn-app/static/css/main.f3ca3beb.chunk.css",
+    "main.js": "/crwn-app/static/js/main.e5dbcc0e.chunk.js",
+    "main.js.map": "/crwn-app/static/js/main.e5dbcc0e.chunk.js.map",
     "runtime-main.js": "/crwn-app/static/js/runtime-main.50224768.js",
     "runtime-main.js.map": "/crwn-app/static/js/runtime-main.50224768.js.map",
-    "static/js/2.aee83b6d.chunk.js": "/crwn-app/static/js/2.aee83b6d.chunk.js",
-    "static/js/2.aee83b6d.chunk.js.map": "/crwn-app/static/js/2.aee83b6d.chunk.js.map",
+    "static/js/2.f2930e21.chunk.js": "/crwn-app/static/js/2.f2930e21.chunk.js",
+    "static/js/2.f2930e21.chunk.js.map": "/crwn-app/static/js/2.f2930e21.chunk.js.map",
     "index.html": "/crwn-app/index.html",
-    "precache-manifest.31f60b41580f71ed8f1a8a8f73df3fdb.js": "/crwn-app/precache-manifest.31f60b41580f71ed8f1a8a8f73df3fdb.js",
+    "precache-manifest.99bb8bcc131663c720f5a765e0979300.js": "/crwn-app/precache-manifest.99bb8bcc131663c720f5a765e0979300.js",
     "service-worker.js": "/crwn-app/service-worker.js",
-    "static/css/main.1321e4b0.chunk.css.map": "/crwn-app/static/css/main.1321e4b0.chunk.css.map",
-    "static/js/2.aee83b6d.chunk.js.LICENSE": "/crwn-app/static/js/2.aee83b6d.chunk.js.LICENSE"
+    "static/css/main.f3ca3beb.chunk.css.map": "/crwn-app/static/css/main.f3ca3beb.chunk.css.map",
+    "static/js/2.f2930e21.chunk.js.LICENSE": "/crwn-app/static/js/2.f2930e21.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.50224768.js",
-    "static/js/2.aee83b6d.chunk.js",
-    "static/css/main.1321e4b0.chunk.css",
-    "static/js/main.b9eb05be.chunk.js"
+    "static/js/2.f2930e21.chunk.js",
+    "static/css/main.f3ca3beb.chunk.css",
+    "static/js/main.e5dbcc0e.chunk.js"
   ]
 }
