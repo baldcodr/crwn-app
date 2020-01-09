@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/crwn-app/static/css/main.43a15517.chunk.css",
-    "main.js": "/crwn-app/static/js/main.e5dbcc0e.chunk.js",
-    "main.js.map": "/crwn-app/static/js/main.e5dbcc0e.chunk.js.map",
+    "main.css": "/crwn-app/static/css/main.d8ec8d56.chunk.css",
+    "main.js": "/crwn-app/static/js/main.3b6125c6.chunk.js",
+    "main.js.map": "/crwn-app/static/js/main.3b6125c6.chunk.js.map",
     "runtime-main.js": "/crwn-app/static/js/runtime-main.50224768.js",
     "runtime-main.js.map": "/crwn-app/static/js/runtime-main.50224768.js.map",
-    "static/js/2.f2930e21.chunk.js": "/crwn-app/static/js/2.f2930e21.chunk.js",
-    "static/js/2.f2930e21.chunk.js.map": "/crwn-app/static/js/2.f2930e21.chunk.js.map",
+    "static/js/2.9f923b05.chunk.js": "/crwn-app/static/js/2.9f923b05.chunk.js",
+    "static/js/2.9f923b05.chunk.js.map": "/crwn-app/static/js/2.9f923b05.chunk.js.map",
     "index.html": "/crwn-app/index.html",
-    "precache-manifest.d06107e0e7acc6b0da211606f4b723ca.js": "/crwn-app/precache-manifest.d06107e0e7acc6b0da211606f4b723ca.js",
+    "precache-manifest.f61a7ba1b21d61a9f9a85d53f8e77f2a.js": "/crwn-app/precache-manifest.f61a7ba1b21d61a9f9a85d53f8e77f2a.js",
     "service-worker.js": "/crwn-app/service-worker.js",
-    "static/css/main.43a15517.chunk.css.map": "/crwn-app/static/css/main.43a15517.chunk.css.map",
-    "static/js/2.f2930e21.chunk.js.LICENSE": "/crwn-app/static/js/2.f2930e21.chunk.js.LICENSE"
+    "static/css/main.d8ec8d56.chunk.css.map": "/crwn-app/static/css/main.d8ec8d56.chunk.css.map",
+    "static/js/2.9f923b05.chunk.js.LICENSE": "/crwn-app/static/js/2.9f923b05.chunk.js.LICENSE",
+    "static/media/crwn.493b2699.svg": "/crwn-app/static/media/crwn.493b2699.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.50224768.js",
-    "static/js/2.f2930e21.chunk.js",
-    "static/css/main.43a15517.chunk.css",
-    "static/js/main.e5dbcc0e.chunk.js"
+    "static/js/2.9f923b05.chunk.js",
+    "static/css/main.d8ec8d56.chunk.css",
+    "static/js/main.3b6125c6.chunk.js"
   ]
 }
