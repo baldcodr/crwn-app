@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/crwn-app/static/css/main.d8ec8d56.chunk.css",
-    "main.js": "/crwn-app/static/js/main.3b6125c6.chunk.js",
-    "main.js.map": "/crwn-app/static/js/main.3b6125c6.chunk.js.map",
+    "main.css": "/crwn-app/static/css/main.9e855836.chunk.css",
+    "main.js": "/crwn-app/static/js/main.1b2e532c.chunk.js",
+    "main.js.map": "/crwn-app/static/js/main.1b2e532c.chunk.js.map",
     "runtime-main.js": "/crwn-app/static/js/runtime-main.50224768.js",
     "runtime-main.js.map": "/crwn-app/static/js/runtime-main.50224768.js.map",
-    "static/js/2.9f923b05.chunk.js": "/crwn-app/static/js/2.9f923b05.chunk.js",
-    "static/js/2.9f923b05.chunk.js.map": "/crwn-app/static/js/2.9f923b05.chunk.js.map",
+    "static/js/2.042d6d69.chunk.js": "/crwn-app/static/js/2.042d6d69.chunk.js",
+    "static/js/2.042d6d69.chunk.js.map": "/crwn-app/static/js/2.042d6d69.chunk.js.map",
     "index.html": "/crwn-app/index.html",
-    "precache-manifest.f61a7ba1b21d61a9f9a85d53f8e77f2a.js": "/crwn-app/precache-manifest.f61a7ba1b21d61a9f9a85d53f8e77f2a.js",
+    "precache-manifest.ed3aafd3a78011e15d26602b9138c64b.js": "/crwn-app/precache-manifest.ed3aafd3a78011e15d26602b9138c64b.js",
     "service-worker.js": "/crwn-app/service-worker.js",
-    "static/css/main.d8ec8d56.chunk.css.map": "/crwn-app/static/css/main.d8ec8d56.chunk.css.map",
-    "static/js/2.9f923b05.chunk.js.LICENSE": "/crwn-app/static/js/2.9f923b05.chunk.js.LICENSE",
+    "static/css/main.9e855836.chunk.css.map": "/crwn-app/static/css/main.9e855836.chunk.css.map",
+    "static/js/2.042d6d69.chunk.js.LICENSE": "/crwn-app/static/js/2.042d6d69.chunk.js.LICENSE",
     "static/media/crwn.493b2699.svg": "/crwn-app/static/media/crwn.493b2699.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.50224768.js",
-    "static/js/2.9f923b05.chunk.js",
-    "static/css/main.d8ec8d56.chunk.css",
-    "static/js/main.3b6125c6.chunk.js"
+    "static/js/2.042d6d69.chunk.js",
+    "static/css/main.9e855836.chunk.css",
+    "static/js/main.1b2e532c.chunk.js"
   ]
 }
