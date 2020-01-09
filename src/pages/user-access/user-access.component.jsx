@@ -1,11 +1,13 @@
 import React from "react";
 
-import Signin from "../../components/sign-in/sign-in.component";
+import SignIn from "../../components/sign-in/sign-in.component";
+import SignUp from "../../components/sign-up/sign-up.component";
 import "./user-access.styles.scss";
 
 const UserAccess = () => (
   <div className="user-access">
-    <Signin />
+    <SignIn />
+    <SignUp />
   </div>
 );
 
